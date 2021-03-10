@@ -10,6 +10,7 @@ namespace _2021_03_10_GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ba NA Na");
         }
     }
 }
