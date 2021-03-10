@@ -37,7 +37,7 @@ namespace _2021_03_10_GitHub
         }
         static void SentenceAnalysis()
         {
-
+            Console.WriteLine("Banana!");
         }
     }
 }
@@ -54,11 +54,16 @@ namespace _2021_03_10_GitHub
 
 
  Sukurti metodą SentenceAnalysis 
-            Paduodama simbolių eilutė (sakinys). Metodas išanalizuoja, kiek ir kokių simbolių yra sakinyje.
+            Paduodama simbolių eilutė (sakinys). 
+Metodas išanalizuoja, kiek ir kokių simbolių yra sakinyje.
             - Visa analizės informacija turi būti išsaugota žodyne(simbolis, pasikartojimai).
             - Tarpų neskaičiuoti ir į žodyną nedėti.
             1 Atspausdinti gautus rezultatus.
             2 Atspausdinti dažniausiai pasikartojantį simbolį.
               Jeigu yra keletas simbolių tiek pat pasikartojančių, atspausdinti juos visus.
             3 Atspausdinti rečiausiai pasikartojantį simbolį.
-              Jeigu yra keletas simbolių tiek pat pasikartojančių, atspausdinti juos visus.*/
+              Jeigu yra keletas simbolių tiek pat pasikartojančių, atspausdinti juos visus.
+
+ keletas if, keletas list ir dictionary
+keleta metodu
+*/
